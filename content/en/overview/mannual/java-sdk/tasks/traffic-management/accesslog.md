@@ -13,7 +13,7 @@ weight: 3
 The access log can effectively record all service request information processed by a machine over a period of time, including request reception time, remote IP, request parameters, response results, etc. Dynamically enabling the access log at runtime is very helpful for problem troubleshooting.
 
 ## Before You Start
-* [Deploy the Shop Mall Project](../#Deploy-Mall-System)
+* [Deploy the Shop Mall Project](../#deploying-the-mall-system)
 * Deploy and open [Dubbo Admin](../../../reference-manual/architecture/)
 
 ## Task Details

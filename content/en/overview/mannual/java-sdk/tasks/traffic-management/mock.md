@@ -17,7 +17,7 @@ The core objective of service downgrading is to address these weak dependencies.
 
 ## Before You Start
 
-* [Deploy Shop Mall Project](../#deploy-the-mall-system)
+* [Deploy Shop Mall Project](../#deploying-the-mall-system)
 * Deploy and open [Dubbo Admin](../../../reference-manual/architecture/)
 
 ## Task Details
