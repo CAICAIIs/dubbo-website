@@ -24,13 +24,13 @@ The requirements are very straightforward.
 - Forward traffic matching this condition to this batch of machines
 - Forward traffic matching another condition to another batch of machines
 
-![Draw a diagram of traffic matching and forwarding]()
+<!-- Image placeholder: Draw a diagram of traffic matching and forwarding -->
 
 This is implemented in Dubbo through conditional routing, and its detailed working principle is explained in our introduction. In the above example, xxx represents; yyy represents.
 
 We need to deploy the rules to the running Dubbo SDK. In the Dubbo system, this is done as follows.
 
-![Routing Rule Distribution and Effect Principle Diagram]()
+<!-- Image placeholder: Routing Rule Distribution and Effect Principle Diagram -->
 
 A zk/nacos distributes a rule, and the Dubbo instance receives the rule push. During the RPC call, rules are applied to filter, selecting a subset of addresses to call.
 

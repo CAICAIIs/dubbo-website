@@ -21,7 +21,7 @@ Based on a weight-based traffic scheduling algorithm, dynamically adjusting the 
 ## Before You Begin
 
 * Deploy Shop Mall Project
-* Deploy and open [Dubbo Admin](../.././../reference/admin/architecture/)
+* Deploy and open [Dubbo Admin](../../../reference-manual/architecture/)
 
 ## Task Details
 

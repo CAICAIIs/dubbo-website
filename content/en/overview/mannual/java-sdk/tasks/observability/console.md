@@ -28,7 +28,7 @@ To experience the effects, we first need to install dubbo-control-plane. Here ar
     ```
     Note that the `conf/dubbo.yml` configuration needs to be adjusted according to your needs to point to the registry and other backend services you want to connect to. For specifics, please refer to the backend services dependent on the dubbo-control-plane architecture.
 3. Access `http://xxx` to open the console page.
-    ![Page Screenshot]()
+    <!-- Image placeholder: Page Screenshot -->
 
 {{% alert title="Note" color="info" %}}
 * Please refer to the documentation for detailed installation steps of dubbo-control-plane, including installation methods and configuration guidance for multiple platforms.

@@ -14,7 +14,7 @@ The access log can effectively record all service request information processed 
 
 ## Before You Start
 * [Deploy the Shop Mall Project](../#Deploy-Mall-System)
-* Deploy and open [Dubbo Admin](../.././../reference/admin/architecture/)
+* Deploy and open [Dubbo Admin](../../../reference-manual/architecture/)
 
 ## Task Details
 

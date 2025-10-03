@@ -18,7 +18,7 @@ Alternatively, some products offer differentiated paid services that require rou
 ## Before You Begin
 
 * [Deploy Shop Mall Project](../#Deploy-Mall-System)
-* Deploy and open [Dubbo Admin](../.././../reference/admin/architecture/)
+* Deploy and open [Dubbo Admin](../../../reference-manual/architecture/)
 
 ## Task Details
 

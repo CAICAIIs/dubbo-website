@@ -15,7 +15,7 @@ Retrying after an initial service call failure can effectively increase the over
 
 ## Before You Begin
 * [Deploy the Shop Mall Project](../#deploy-the-mall-system)
-* Deploy and open [Dubbo Admin](../.././../reference/admin/architecture/)
+* Deploy and open [Dubbo Admin](../../../reference-manual/architecture/)
 
 ## Task Details
 

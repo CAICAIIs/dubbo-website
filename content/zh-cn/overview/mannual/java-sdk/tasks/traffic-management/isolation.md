@@ -22,7 +22,7 @@ weight: 5
 ## 开始之前
 
 * [部署 Shop 商城项目](../#部署商场系统)
-* 部署并打开 [Dubbo Admin](../.././../reference/admin/architecture/)
+* 部署并打开 [Dubbo Admin](../../../reference-manual/architecture/)
 
 ## 任务详情
 
